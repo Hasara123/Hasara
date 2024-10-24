@@ -1,0 +1,4 @@
+admin---admin123---Administrator
+Hanako---12345---HR Manager
+Ayodya---123123---HR Manager
+Hithashi---123123---HR Assistant
